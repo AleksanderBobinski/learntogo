@@ -9,6 +9,7 @@
 *.dylib
 !cmd/
 client
+server
 
 # Test binary, built with `go test -c`
 *.test
